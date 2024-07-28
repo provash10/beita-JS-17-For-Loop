@@ -1,0 +1,7 @@
+JS 17 For Loop
+
+## For Loop
+
+for ( initialization; condition; increment/decrement){
+    code goes here.........
+}
